@@ -105,7 +105,7 @@ calling function through frida will be as below by using wrapper to access class
 
 ```js
 
-Java.perform(function(){
+Java.perform(function()){
 
 
 
